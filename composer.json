@@ -1,0 +1,5 @@
+{
+    "require": {
+        "auditasat/informex": "1.0.*"
+    }
+}
